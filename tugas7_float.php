@@ -11,7 +11,7 @@
   margin:0px;
 }
 .container {
-  width:80%;
+  width:90%;
   margin:auto;
   
 }
